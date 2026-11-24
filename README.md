@@ -145,7 +145,7 @@ The local `sample_data/` directory contains 3 realistic pharmaceutical manufactu
 
 ---
 
-## Product Demo Video Walkthrough Guide (5–8 Minutes)
+<!-- ## Product Demo Video Walkthrough Guide (5–8 Minutes)
 
 Use this script during your screen-recording demo:
 
@@ -257,7 +257,7 @@ venv/bin/pytest -v
 - `test_ai_workflow.py`: LangGraph StateGraph execution, structured output schemas, and refinement node.
 - `test_rca_and_capa.py`: Nested RCA and CAPA endpoints and status transitions.
 
----
+--- -->
 
 ## Regulatory Compliance Context
 

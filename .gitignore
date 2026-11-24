@@ -1,0 +1,29 @@
+# Sample Data (kept local, NOT pushed to GitHub)
+sample_data/
+
+# Python Virtual Environment & Artifacts
+backend/venv/
+backend/__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+*.egg-info/
+.coverage
+htmlcov/
+
+# Node & Frontend Build
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Environment Variables
+.env
+backend/.env
+frontend/.env
+*.env.local
+
+# OS / Editor artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
